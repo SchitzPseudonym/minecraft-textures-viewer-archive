@@ -7,5 +7,5 @@ A simple viewer for Minecraft texture folders.
 
 Try it online at: https://oparisblue.github.io/minecraft-textures-viewer!
 
-# Archival github.io page:
+### Archival github.io page:
 https://schitzpseudonym.github.io/minecraft-textures-viewer-archive/
